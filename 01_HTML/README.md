@@ -1,4 +1,4 @@
-![HTML](img/lmsgi.jpg "Aprende HTML!!")
+![HTML](img/HTML5.PNG "Aprende HTML!!")
 
 # HyperText Markup Language (HTML)
 
